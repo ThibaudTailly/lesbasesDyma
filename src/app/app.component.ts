@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'chap2Lesbases';
+
+  clicko() {
+    console.log("click");
+  }
 }
